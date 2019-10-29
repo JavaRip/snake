@@ -1,4 +1,4 @@
-const speed = 100;
+const speed = 110;
 
 let moveMade = false;
 const fieldSize = 10;
